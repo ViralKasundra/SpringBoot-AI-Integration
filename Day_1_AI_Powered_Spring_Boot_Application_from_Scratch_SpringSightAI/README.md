@@ -7,11 +7,7 @@
 
 com
 
-|
-
 └── example
-
-    |
 
     └── aiapp
     
