@@ -1,4 +1,4 @@
-******1. Image Processing:****
+****1. Image Processing:****
 
 Requirement 1.1: The system must be able to receive images as input.
 
