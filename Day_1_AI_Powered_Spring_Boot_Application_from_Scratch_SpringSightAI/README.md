@@ -4,22 +4,22 @@
 
 **1.1 Project Overview**
 
-com
+**com**
 
-└── example
+└── **example**
 
-    └── aiapp
-        ├── config
+    └── **aiapp**
+        ├── **config**
         
         │   ├── DatabaseConfig.java
         
         │   └── AppConfig.java
         
-        ├── controller
+        ├── **controller**
         
         │   └── AIController.java
         
-        ├── model
+        ├── **model**
         
         │   ├── Image.java
         
@@ -27,7 +27,7 @@ com
         
         │   └── Text.java
         
-        ├── repository
+        ├── **repository**
         
         │   ├── ImageRepository.java
         
@@ -35,7 +35,7 @@ com
         
         │   └── TextRepository.java
         
-        ├── service
+        ├── **service**
         
         │   ├── ComputerVisionService.java
         
@@ -43,11 +43,11 @@ com
         
         │   └── NLPService.java
         
-        ├── util
+        ├── **util**
         
         │   └── AppUtils.java
         
-        ├── resources
+        ├── **resources**
         
         │   ├── application.properties
         
