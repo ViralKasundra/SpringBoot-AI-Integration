@@ -6,11 +6,8 @@
 
 
 com
-
 └── example
-
     └── aiapp
-    
         ├── config
         
         │   ├── DatabaseConfig.java
