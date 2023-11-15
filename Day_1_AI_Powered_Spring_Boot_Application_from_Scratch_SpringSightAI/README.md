@@ -6,9 +6,7 @@
 
 
 com
-
 └── example
-
     └── aiapp
     
         ├── config
