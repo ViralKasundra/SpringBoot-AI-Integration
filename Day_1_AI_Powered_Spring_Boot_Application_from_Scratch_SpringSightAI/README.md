@@ -4,57 +4,31 @@
 
 **1.1 Project Overview**
 
-**com**
-
-└── **example**
-
-    └── **aiapp**
-        ├── **config**
-        
+com
+└── example
+    └── aiapp
+        ├── config
         │   ├── DatabaseConfig.java
-        
         │   └── AppConfig.java
-        
-        ├── **controller**
-        
+        ├── controller
         │   └── AIController.java
-        
-        ├── **model**
-        
+        ├── model
         │   ├── Image.java
-        
         │   ├── ProcessedImage.java
-        
         │   └── Text.java
-        
-        ├── **repository**
-        
+        ├── repository
         │   ├── ImageRepository.java
-        
         │   ├── ProcessedImageRepository.java
-        
         │   └── TextRepository.java
-        
-        ├── **service**
-        
+        ├── service
         │   ├── ComputerVisionService.java
-        
         │   ├── MachineLearningService.java
-        
         │   └── NLPService.java
-        
-        ├── **util**
-        
+        ├── util
         │   └── AppUtils.java
-        
-        ├── **resources**
-        
+        ├── resources
         │   ├── application.properties
-        
         │   └── application.yml
-        
         ├── AiAppApplication.java
-        
         ├── AiAppApplicationTests.java
-        
         └── pom.xml
